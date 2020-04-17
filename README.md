@@ -1,5 +1,6 @@
 # Custom API Labels
 
+![Screenshot](screenshot.png)
 
 This extension allow to show labels on the top panel based on a script output (in JSON format). It can be used for monitoring, alerting or any informational purposes.
 It was tested on gnome-shell 3.12 to 3.33
